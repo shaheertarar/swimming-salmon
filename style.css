@@ -1,0 +1,12 @@
+body {
+	margin:0;
+	padding:0;
+	background:lightblue;
+}
+
+.fish {
+	position:absolute;
+	width:200px;
+	height:auto;
+	transition: 1000ms;
+}
